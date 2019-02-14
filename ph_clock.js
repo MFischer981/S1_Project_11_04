@@ -4,8 +4,8 @@
    Case Problem 4
 
    Countdown Clock for Ticket Ordering
-   Author: 
-   Date:  
+   Author: Micah Fischer
+   Date:   2-14-19
 
    Filename:   ph_clock.js     
 
